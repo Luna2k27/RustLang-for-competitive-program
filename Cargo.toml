@@ -1,0 +1,8 @@
+[package]
+name = "Rust for CP"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rust_cp"
+path = "src/lib.rs"
